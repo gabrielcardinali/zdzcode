@@ -9,7 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d45d91b2-af70-41b7-92b8-5e020871fa0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/doacoes/Controllers/DoadorController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doacoes/Controllers/DoacaoTipoController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doacoes/Controllers/InstituicaoController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Doacoes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Doacoes/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +87,7 @@
       <workItem from="1732495727049" duration="2680000" />
       <workItem from="1732666345294" duration="5603000" />
       <workItem from="1732672148425" duration="1986000" />
-      <workItem from="1732756128248" duration="301000" />
+      <workItem from="1732756128248" duration="699000" />
     </task>
     <servers />
   </component>
