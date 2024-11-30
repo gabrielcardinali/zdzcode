@@ -16,4 +16,6 @@ public class Doador
     public string Email { get; set; }
     public string Telefone { get; set; }
     public string Endereco { get; set; }
+    private readonly List<Doacao> _doacoes = new();
+    public IReadOnlyCollection<Doacao> Doacao => _doacoes;
 }

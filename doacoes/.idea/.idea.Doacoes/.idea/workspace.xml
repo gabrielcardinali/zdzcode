@@ -9,10 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d45d91b2-af70-41b7-92b8-5e020871fa0a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/doacoes/Controllers/DoacaoTipoController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doacoes/Controllers/InstituicaoController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Doacoes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Doacoes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doacoes/Data/Context/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doacoes/Data/Context/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doacoes/Models/Doacao.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doacoes/Models/Doacao.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doacoes/Models/Doador.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doacoes/Models/Doador.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doacoes/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/doacoes/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +88,9 @@
       <workItem from="1732495727049" duration="2680000" />
       <workItem from="1732666345294" duration="5603000" />
       <workItem from="1732672148425" duration="1986000" />
-      <workItem from="1732756128248" duration="699000" />
+      <workItem from="1732756128248" duration="3106000" />
+      <workItem from="1732840390225" duration="2243000" />
+      <workItem from="1732922884825" duration="1909000" />
     </task>
     <servers />
   </component>
